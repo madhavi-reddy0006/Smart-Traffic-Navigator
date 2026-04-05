@@ -1,6 +1,7 @@
-ML+DL
-Tensorflow
 streamlit
 numpy
 pandas
-sklearn
+matplotlib
+scikit-learn
+tensorflow
+geopy
